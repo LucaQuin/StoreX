@@ -1,0 +1,19 @@
+
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons+Outlined"
+      rel="stylesheet">
+      <title>Portafolio Lunes G2</title>
+</head>
+
+<body>
+    <h3> <a href="https://github.com/LucaQuin/StoreX/Ap01.pdf">Carpeta al trabajo 0</a> </h3>
+    <h3> <a href="https://github.com/LucaQuin/StoreX/Ap02.xlsx">Carpeta al trabajo 1</a> </h3>
+    <h3> <a href="https://github.com/LucaQuin/StoreX/Ap02b_Ejemplo Def. OBJETIVOS.pdf">Carpeta al trabajo 2</a> </h3>
+    <h3> <a href="https://lucaquin.github.io/StoreX/Ideas de Tesis.pptx">Carpeta a la primera prueba</a> </h3>
+</body>
